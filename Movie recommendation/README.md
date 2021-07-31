@@ -1,1 +1,1 @@
-
+Movie Recommendation is done in this Particular project using content based recommendation. For your own uses change the file path. To preview this project open the ipynb file in display rendered blob. To use code in other IDE rather than google colab or jupyter download the .py file . Movies.csv file is the dataset used in this project . Different dataset may vary the output.
